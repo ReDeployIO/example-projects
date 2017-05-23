@@ -1,9 +1,15 @@
 #!/bin/bash
 
-cd api-gw-geolocation
+#api gateway example
+#cd api-gw-geolocation
 
+#npm install
+#npm init
+#npm run create
+
+#web-api example
+cd web-serving-html
 npm install
-npm init
-npm run create
+npm start
 
 exit 0
