@@ -2,6 +2,7 @@
 
 cd api-gw-geolocation
 
+npm install
 npm init
 npm run create
 
